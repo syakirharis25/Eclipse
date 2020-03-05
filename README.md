@@ -4,8 +4,16 @@ My works related to Eclipse.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [GitHub notes.](#github)
-4. [GitHub repository calculation.](#calculation)
+3. [Eclipse shortcuts.](#shortcuts)
+4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
+
+<a name="shortcuts"></a>
+## 3. Eclipse shortcuts.
+**[ Ctrl ]** + **[ Space ]** : content assist
+**[ Ctrl ]** + **[ 1 ]** : quick fix suggestions
+**[ Ctrl ]** + **[ S ]** : save
+**[ Ctrl ]** + **[ Shift ]** + **[ " ]** : turn text into text block
 
 <a name="introduction"></a>
 ## 1. Introduction.
