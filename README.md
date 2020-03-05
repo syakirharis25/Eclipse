@@ -20,6 +20,7 @@ Eclipse software development kit (SDK) is free and open-source software, release
 ## 2. Official references websites. <br />
 Eclipse official website : https://www.eclipse.org <br />
 Eclipse official IDE download page : https://www.eclipse.org/downloads <br />
+Eclipse official IDE download packages page : https://www.eclipse.org/downloads/packages/
 IBM official website : https://www.ibm.com  <br />
 
 <a name="github"></a>
