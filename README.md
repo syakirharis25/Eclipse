@@ -8,13 +8,6 @@ My works related to Eclipse.
 4. [GitHub notes.](#github)
 5. [GitHub repository calculation.](#calculation)
 
-<a name="shortcuts"></a>
-## 3. Eclipse shortcuts.
-**[ Ctrl ]** + **[ Space ]** : content assist
-**[ Ctrl ]** + **[ 1 ]** : quick fix suggestions
-**[ Ctrl ]** + **[ S ]** : save
-**[ Ctrl ]** + **[ Shift ]** + **[ " ]** : turn text into text block
-
 <a name="introduction"></a>
 ## 1. Introduction.
 <img src="eclipse.png" height="150">
@@ -37,8 +30,15 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 **_Eclipse questions and answers by Stack Overflow_** <br />
 Class has been compiled by a more recent version of the Java Environment by Stack Overflow : https://stackoverflow.com/questions/47457105/class-has-been-compiled-by-a-more-recent-version-of-the-java-environment
 
+<a name="shortcuts"></a>
+## 3. Eclipse shortcuts.
+**[ Ctrl ]** + **[ Space ]** : content assist
+**[ Ctrl ]** + **[ 1 ]** : quick fix suggestions
+**[ Ctrl ]** + **[ S ]** : save
+**[ Ctrl ]** + **[ Shift ]** + **[ " ]** : turn text into text block
+
 <a name="github"></a>
-## 3. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Eclipse.git
@@ -48,7 +48,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 4. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
