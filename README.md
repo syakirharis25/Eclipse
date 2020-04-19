@@ -31,6 +31,12 @@ Eclipse official IDE download page : https://www.eclipse.org/downloads <br />
 Eclipse official IDE download packages page : https://www.eclipse.org/downloads/packages/
 IBM official website : https://www.ibm.com  <br />
 
+**_Eclipse questions and answers website_** <br />
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
+**_Eclipse questions and answers by Stack Overflow_** <br />
+Class has been compiled by a more recent version of the Java Environment by Stack Overflow : https://stackoverflow.com/questions/47457105/class-has-been-compiled-by-a-more-recent-version-of-the-java-environment
+
 <a name="github"></a>
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
