@@ -26,9 +26,13 @@ IBM official website : https://www.ibm.com  <br />
 
 **_Eclipse questions and answers website_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
+Quora Stack Overflow questions and answers website : https://www.quora.com <br />
 
 **_Eclipse questions and answers by Stack Overflow_** <br />
-Class has been compiled by a more recent version of the Java Environment by Stack Overflow : https://stackoverflow.com/questions/47457105/class-has-been-compiled-by-a-more-recent-version-of-the-java-environment
+Class has been compiled by a more recent version of the Java Environment by Stack Overflow : https://stackoverflow.com/questions/47457105/class-has-been-compiled-by-a-more-recent-version-of-the-java-environment <br />
+
+**_Eclipse questions and answers by Quora_** <br />
+Eclipse (software): What's the difference between the "bin" and "src" folders? by Quora : https://www.quora.com/Eclipse-software-Whats-the-difference-between-the-bin-and-src-folders <br />
 
 <a name="shortcuts"></a>
 ## 3. Eclipse shortcuts.
